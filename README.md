@@ -26,10 +26,10 @@ Note: the "Years" column, was created by using the YEAR() function to extract th
 
 ### Analysis of Outcomes Based on Goals
 
+![](Outcomes_vs_Goals_formula.png)
 
 
-
-In order to analyze the Outcomes based on Goals, I calculated the number of successful, failed, and canceled US campaigns that were subcategorized as plays by using the COUNTIFS statement displayed above. 
+In order to analyze the Outcomes based on Goals, I calculated the number of successful, failed, and canceled US campaigns that were subcategorized as plays by using the COUNTIFS statement displayed above. The formula adapted to account for the respective outcomes and Goal ranges.
 
 Next, I used the SUM() function to total the number of campaigns per each Goal range. 
 
