@@ -11,6 +11,8 @@ The purpose of this analysis is to determine how crowdfunding campaigns performe
 
 ## Analysis and Challenges
 
+![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
+
 
 
 ### Analysis of Outcomes Based on Launch Date
