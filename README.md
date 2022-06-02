@@ -7,7 +7,7 @@ Performing analysis on Kickstarter (crowdfunding) data to uncover trends
 ## Overview of Project
 
 ### Purpose
-The purpose of this analysis is to determine how crowdfunding campaigns performed based off of their campaign launch date as well as their campaign fundraising goals. We are interested in looking at specifically theater and play categorized campaigns due to our stakeholder's interest.
+The purpose of this analysis is to determine how crowdfunding campaigns performed based off of their campaign launch date as well as their campaign fundraising goals. We are interested in looking at campaigns categorized specifically as theater and/or play due to our stakeholder's interest.
 
 ## Analysis and Challenges
 
