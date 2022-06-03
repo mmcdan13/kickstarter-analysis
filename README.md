@@ -49,6 +49,10 @@ a wrong number. To address this challenge, it's important to double check the fo
 
 ## Results
 
+
+### Conclusions
+
+
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 The most successful theater campaigns (111) were launched in May so May would be an ideal time to launch. Also, May, June, July, August, and October had roughly the same number of failed theater campaigns (~50).
@@ -58,10 +62,15 @@ The most successful theater campaigns (111) were launched in May so May would be
 From fundraising goals of $0-$29,999 the general trend of the successful campaigns is negative meaning that the the higher the fundraising goal is the 
 lower the percentage of successful camppaigns. The highest percentage of successful campaigns were in the $0-$1000 campaign range.
 
+
+### Limitations
+
+
 - What are some limitations of this dataset?
 
 Some limitations of the dataset are the size and the source of the data that match all of our parameters- there are only 671 US plays that Kickstarter has funded. We also don't have any information about fundraising campaigns on different platforms besides Kickstarter.  
 
+### Recommendations or Further Steps
 - What are some other possible tables and/or graphs that we could create?
 
 I would suggest creating a table and/or line chart to view the trend between Number of Backers, Average Donations, and Goals. 
